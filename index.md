@@ -1,8 +1,14 @@
-## portfolio
+---
+layout: cayman
+title: Portfolio 
+author: Yudai Yamaguchi
+---
+
+# About this site
 山口雄大のポートフォリオサイト
 
-###学歴
-2003/11/14 生まれ
+<h1>学歴</h1>
+<p>2003/11/14 生まれ</p>
 2024.3 舞鶴工業高等専門学校 電子制御工学科卒業見込み
 
 ###作品
