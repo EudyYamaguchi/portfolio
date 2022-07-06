@@ -16,5 +16,5 @@ author: Yudai Yamaguchi
 <p>3年次の実験で行われたペットボトルを運ぶ競技でLEGO MINDSTORMで作成したロボット</p>
 
 <h1>コンタクト</h1>
-<p><a href="mailto:eudyyamaguchi&#64;gmail.com">eudyyamaguchi&#64;gmail.com</a></p>
+<p>mail:<a href="mailto:eudyyamaguchi&#64;gmail.com">eudyyamaguchi&#64;gmail.com</a></p>
 
