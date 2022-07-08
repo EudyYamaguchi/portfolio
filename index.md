@@ -4,5 +4,5 @@
 <p>三年次の実験で行われたペットボトルを運ぶ競技でLEGO MINDSTORMで作成したロボット</p>
     
   
-<img src="/img/IMG_0702.JPG"> 
+<img src="[/img/IMG_0702.JPG](https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_0702.jpg)"> 
 <p>一年時の実験で製作したLEGO MINDSTORMによるライントレースロボット</p>
