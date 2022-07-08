@@ -5,4 +5,4 @@
     
   
 <img src="/img/IMG_0702.JPG"> 
-<p>一年時の実験で製作したLEGO MINDSTORMによるライントレースロボット
+<p>一年時の実験で製作したLEGO MINDSTORMによるライントレースロボット</p>
