@@ -37,6 +37,7 @@
 <p>3Dプリンターとarduinoで作った小型移動ロボット</p>
 <iframe width="523" height="930" src="https://www.youtube.com/embed/sy9tUGAeI54" title="IMG 6552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-
-
+<p>フリークライミング部でスペースの空いていた2階に単管パイプを組み上げて建てたクライミングウォール
+<img src="https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_6425.jpg"> 
+<img src="https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_6463.jpg"> 
     
