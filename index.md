@@ -25,7 +25,7 @@
 <h2>プログラミング</h2>
 <p>3年次の組込みシステムⅡの自由課題で制作したモールス信号判定プログラム</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zso0ZyyJRXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
+<br>  
    
 <h1>趣味での制作物</h1>
 <p>3Dプリンターで作った合鍵</p>
