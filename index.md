@@ -9,9 +9,14 @@
 
 <a>実験<a/>
 <p>3年次の実験で行われたペットボトルを運ぶ競技でLEGO MINDSTORMで作成したロボット</p>
+<p>スタートエリアからスタートし，ペットボトルをゴールエリアまで運ぶ競技．
+   サイズ制限がなく，スタート時に機体の一部がスタートエリアに触れてさえいればよかったのでこのような形になった．</p> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4oUvX3GmkwA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
-<p>1年時の実験で製作したLEGO MINDSTORMによるライントレースロボット</p>
+<p>2年時の実験で制作したライントレースロボット</p>
+<img src="https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_0702.jpg"> 
+    
+<p>1年時の実験で制作したLEGO MINDSTORMによるライントレースロボット</p>
 <img src="https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_0702.jpg"> 
 
     
