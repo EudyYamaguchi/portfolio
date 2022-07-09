@@ -28,6 +28,9 @@
 <br>  
    
 <h1>趣味での制作物</h1>
+<p>pythonによる健康調査の自動回答プログラム</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F4mNOIj7JOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <p>3Dプリンターで作った合鍵</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kcWkp9gCNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
