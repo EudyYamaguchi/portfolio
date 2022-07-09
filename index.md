@@ -1,8 +1,10 @@
 <a>山口雄大のポートフォリオサイト<a>
     
-##Blender
+<a>Blender<a/>
     
-<video src="portfolio/video/video_15620026745824-jf3y2zor.mp4" controls></video>
+<video src="<iframe width="560" height="315" src="https://www.youtube.com/embed/Zso0ZyyJRXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" controls></video>
+<p>3年次の組込みシステムⅡで制作したモールス信号判定装置
+    
 3年次のCAD演習で制作した自由課題
     
 <video src="portfolio/video/3zikkenn.mp4" controls></video>
