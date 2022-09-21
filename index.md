@@ -34,8 +34,12 @@
 <p>3Dプリンターで作った合鍵</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kcWkp9gCNrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<p>小型エグゾーストキャノン</p>
+<p>エグゾーストキャノンmk1</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YMfF6OMLasw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<p>エグゾーストキャノンmk2</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vismjgx9NnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="https://raw.githubusercontent.com/EudyYamaguchi/portfolio/gh-pages/Resized/s-IMG_7053.jpg"> 
 <br>
 <p>3Dプリンターとarduinoで作った小型移動ロボット</p>
 <iframe width="523" height="930" src="https://www.youtube.com/embed/sy9tUGAeI54" title="IMG 6552" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
